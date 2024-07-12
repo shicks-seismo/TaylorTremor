@@ -1,0 +1,3 @@
+[submodule "SeismicSonify"]
+	path = SeismicSonify
+	url = https://github.com/shicks-seismo/SeismicSonify
